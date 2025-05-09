@@ -1,1 +1,15 @@
 *.class
+*.zip
+# Maven output
+/target/
+
+# IDEs
+/*.iml
+/.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
