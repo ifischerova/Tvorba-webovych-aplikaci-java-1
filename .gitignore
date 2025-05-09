@@ -1,5 +1,6 @@
 *.class
 *.zip
+*.txt
 # Maven output
 /target/
 
@@ -13,4 +14,3 @@ Thumbs.db
 
 # Logs
 *.log
-*.zip
